@@ -33,5 +33,7 @@ M : Double size
 
 N : Interleaved video
 
-O/P : Increment/Decrement 9/0 : Increment +10/Decrement -10
+O/P : Increment/Decrement 
+
+9/0 : Increment +10/Decrement -10
 
