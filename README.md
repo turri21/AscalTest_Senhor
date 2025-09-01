@@ -1,5 +1,8 @@
+-=(AscalTest_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p.
 
+___
 Keys :
 A : Disable/Enable automatic sizing of the input image
 B : Input. Left
